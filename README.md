@@ -21,7 +21,7 @@ Step 5 : Mark the states of DFA which contains final state of NFA as final state
 ```
 NAME: PRADEEP S
 REGISTER NUMBER: 212222100034
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
